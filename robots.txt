@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.rokxcwn.cn/sitemap.xml
